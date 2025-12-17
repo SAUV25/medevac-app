@@ -1,0 +1,8 @@
+{
+  "name": "MedEvac - Emergency Medical Management",
+  "description": "A comprehensive platform for managing emergency medical services, from patient intake and intervention planning to stock management and financial receipts. Designed to optimize operations for SAMU teams.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
